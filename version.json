@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://github.com/ElcioReis3/rotta-carga-plus-releases/releases/download/v1.0.0/app-release.apk",
-  "release_notes": "Versão beta inicial — apresentação do projeto integrado.",
+  "release_notes": "Correção de bugs e funcionalidades. ",
   "force_update": false
 }
